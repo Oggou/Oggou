@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oggou
 - 👀 I’m interested Robotics
-- 🌱 I’m currently learning Python and Embedded C
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on a new phone app called the Cartographer, it would allow you to make a virtual model of the real world that has accurate GPS cordinates wihtin the model from your phone.
 - 📫 How to reach me jimmy.chase@yahoo.com - subject the email 'Github Message'
 
