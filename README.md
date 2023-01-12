@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and C
 - 📫 How to reach me --> jimmy.chase@yahoo.com - subject the email 'Github Message'
 
-This is a newly created profile as I have been extremely busy with work and school, so please do not hold its emptiness aginst me :)
 
 <!---
 Oggou/Oggou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
