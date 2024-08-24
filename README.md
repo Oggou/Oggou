@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Oggou
 - 👀 I’m interested Robotics
-- 🌱 I’m currently learning Python and C
-- 📫 How to reach me --> jimmy.chase@yahoo.com - subject the email 'Github Message'
 
 
 <!---
