@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oggou
-- 👀 I’m interested Robotics
+- 👀 I’m interested Robotics, AI and Science.
 
 
 <!---
