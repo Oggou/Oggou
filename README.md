@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Oggou
 - 👀 I’m interested Robotics, AI and Science.
 
 
