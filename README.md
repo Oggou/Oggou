@@ -1,3 +1,4 @@
+- It's me JC.
 - 👀 I’m interested Robotics, AI and Science.
 
 
